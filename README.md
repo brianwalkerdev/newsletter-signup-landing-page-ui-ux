@@ -92,7 +92,8 @@ This project is built with:
 | **Normalize.css** | Cross-browser consistency |
 | **Google Fonts** | Typography (Work Sans, Merriweather, Roboto) |
 
-**No JavaScript required** - Pure HTML/CSS implementation for maximum simplicity and performance.
+**No JavaScript required for the form** – Pure HTML/CSS implementation for maximum simplicity and performance.  
+> _Note: JavaScript tooling (e.g., Playwright) is used for development and testing only; the form itself works without JavaScript in the browser._
 
 ---
 
