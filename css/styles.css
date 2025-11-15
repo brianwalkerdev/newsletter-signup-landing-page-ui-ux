@@ -130,8 +130,8 @@ hr {
 
 .section-3 input[type="checkbox"],
 .section-3 input[type="radio"] {
-  cursor: pointer;
-  width: auto;
+  /* cursor: pointer; */
+  /* width: auto; */
   margin-right: 5px;
 }
 
