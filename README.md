@@ -9,7 +9,7 @@ A professionally-designed, responsive newsletter signup form demonstrating moder
 
 ## 🚀 Live Demo
 
-**[View Live Demo →](https://brianwalkerdev.github.io/newsletter-signup-landing-page-ui-ux/)**
+**[View Live Demo →](https://projects.brianwalker.dev/newsletter-signup-landing-page-ui-ux/)**
 
 ## ✨ Features
 
