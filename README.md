@@ -2,7 +2,7 @@
 
 A professionally-designed, responsive newsletter signup form demonstrating modern HTML5 and CSS3 techniques for adaptive web layouts.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://brianwalkerdev.github.io/newsletter-signup-landing-page-ui-ux/)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://projects.brianwalker.dev/newsletter-signup-landing-page-ui-ux/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![Project Thumbnail](thumbnail.png)
